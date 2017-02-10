@@ -101,7 +101,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
+  //background-color: $header-bg-color;
   background-image: '/img/eye.png'
 
   @include large {
