@@ -21,6 +21,17 @@
   }
 }
 
+@mixin background($imgpath,$position:0 0,$repeat: no-repeat) {
+    background: {
+        image: url($imgpath);
+        position: $position;
+        repeat: $repeat;
+    }
+}
+.testing {
+    @include background('/img/eye.png');
+}
+
 * {
   box-sizing: border-box;
 }
@@ -91,7 +102,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color, $header-bg-color);
+  background-image: '/img/eye.png'
 
   @include large {
     padding: 5rem 6rem;
