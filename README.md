@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Ethan, dude.
 
-You can use the [editor on GitHub](https://github.com/sapporovhs/sapporovhs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Listen, man.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sorry, I meant Gerrod.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Remember that part in Austin Powers where they make dick-shaped space ship.
 
 ```markdown
-Syntax highlighted code block
+Quote from the film to help you remember:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+"Hey look. That space ship looks exactly like a dick."
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here is the [Wikipedia Page](https://en.wikipedia.org/wiki/Big_Walnut_High_School) about it.
 
-### Jekyll Themes
+### Also, Gerrod.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sapporovhs/sapporovhs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+When you come, can you bring some anytizers you know I 'need' that shit?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Ethan.
