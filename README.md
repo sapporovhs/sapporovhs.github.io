@@ -29,7 +29,7 @@ Let's do it first. Or at least better.
 
 Develop an 11-minute Adult Swim-style television show called "Sapporo VHS".
 
-![SVHS-banner](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/sapporovhs_banner.png)
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/sapporovhs_banner.png" alt="banner">
 
 ## Plot
 
@@ -89,19 +89,19 @@ Newly graduated CS student working for the [Goon Platoon](https://en.wikipedia.o
 
 #### Backgrounds made using PowerPoint:
 
-![house](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/house.png)
-![office](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/office.png)
-![eye](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/OminousEye.png)
-![street](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/street.png)
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/house.png" alt="house">
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/office.png" alt="office">
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/OminousEye.png" alt="eye">
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/street.png" alt="street">
 
 #### Backgrounds made using [roomstyler.com](https://roomstyler.com/3dplanner) :
 
-![RS_room1_render1](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_room1_render1.jpg.png)
-![RS_bathroom_render](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_ShortHouse_Bathroom.jpg)
-![RS_Shop](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_Shop.jpg.png)
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_room1_render1.jpg.png" alt="room">
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_ShortHouse_Bathroom.jpg" alt="bathroom">
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_Shop.jpg.png" alt="shop">
 
 #### Copy-Paste from Google Background (non-original background):
 
-![pool](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/Pool.png)
-![room1](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/room1.png)
-![room2](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/room2.png)
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/Pool.png" alt="pool">
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/room1.png" alt="room1">
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/room2.png" alt="room2">
