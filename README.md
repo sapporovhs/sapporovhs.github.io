@@ -29,7 +29,7 @@ Let's do it first. Or at least better.
 
 Develop an 11-minute Adult Swim-style television show called "Sapporo VHS".
 
-<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/sapporovhs_banner.png" alt="banner">
+<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/sapporovhs_banner.png" alt="banner"/>
 
 ## Plot
 
@@ -89,19 +89,19 @@ Newly graduated CS student working for the [Goon Platoon](https://en.wikipedia.o
 
 #### Backgrounds made using PowerPoint:
 
-<img src="/assets/css/img/house.png" alt="house">
-<img src="/assets/css/img/office.png" alt="office">
-<img src="/assets/css/img/OminousEye.png" alt="eye">
-<img src="/assets/css/img/street.png" alt="street">
+<img src="/assets/css/img/house.png" alt="house"/>
+<img src="/assets/css/img/office.png" alt="office"/>
+<img src="/assets/css/img/OminousEye.png" alt="eye"/>
+<img src="/assets/css/img/street.png" alt="street"/>
 
 #### Backgrounds made using [roomstyler.com](https://roomstyler.com/3dplanner) :
 
-<img src="/assets/css/img/RS_room1_render1.jpg.png" alt="room">
-<img src="/assets/css/img/RS_ShortHouse_Bathroom.jpg" alt="bathroom">
-<img src="/assets/css/img/RS_Shop.jpg.png" alt="shop">
+<img src="/assets/css/img/RS_room1_render1.jpg.png" alt="room"/>
+<img src="/assets/css/img/RS_ShortHouse_Bathroom.jpg" alt="bathroom"/>
+<img src="/assets/css/img/RS_Shop.jpg.png" alt="shop"/>
 
 #### Copy-Paste from Google Background (non-original background):
 
-<img src="/assets/css/img/Pool.png" alt="pool">
-<img src="/assets/css/img/room1.png" alt="room1">
-<img src="/assets/css/img/room2.png" alt="room2">
+<img src="/assets/css/img/Pool.png" alt="pool"/>
+<img src="/assets/css/img/room1.png" alt="room1"/>
+<img src="/assets/css/img/room2.png" alt="room2"/>
