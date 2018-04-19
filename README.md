@@ -29,7 +29,7 @@ Let's do it first. Or at least better.
 
 Develop an 11-minute Adult Swim-style television show called "Sapporo VHS".
 
-<img src="https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/sapporovhs_banner.png" alt="banner"/>
+<img src="/assets/css/img/sapporovhs_banner.png" alt="banner"/>
 
 ## Plot
 
