@@ -102,7 +102,7 @@ a {
   color: $header-heading-color;
   text-align: center;
 
-  @include background('/img/eye.png');
+  @include background('/assets/css/img/eye.png');
     
   @include large {
     padding: 5rem 6rem;
