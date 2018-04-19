@@ -29,7 +29,7 @@
     }
 }
 .testing {
-    @include background('/img/eye.png');
+    @include background('assets/css/img/eye.png');
 }
 
 * {
@@ -41,7 +41,7 @@ body {
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 3;
+  line-height: 20;
   color: $body-text-color;
 }
 
