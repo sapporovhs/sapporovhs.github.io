@@ -1,6 +1,6 @@
 # Sapporo VHS Project Repository
 
-Welcome.
+Welcome. **REPOSITORY UPDATE COMING SOON: For now, please read this README**
 
 This private \"site\" will be used to promote creative collaboration between people working on the **Sapporo VHS** project.
 
@@ -76,11 +76,32 @@ Newly graduated CS student working for the [Goon Platoon](https://en.wikipedia.o
 |:---:|---|
 |Age|28|
 |Archetype|Misunderstood angry foreigner.|
-|Personality||
-|Notes||
+|Personality|Very disciplined young, Japanese woman. Does not waste time with small talk.|
+|Notes|Understands English perfectly but only speaks Japanese (very violently). Her subtitles will sometimes be correct, sometimes in Japanese, and sometimes not even there at all. Fulfilling the Japanese stereotype of "all work no play", she seems to work part time at every possible store in town.|
 
 ### Project Themes
 
 * [Aqua Team Hunger Force](https://www.youtube.com/watch?v=q90_y73Uea0&list=CLyb9ZW5B-Qhw&index=5) style animation.
 * Heavy [vaporwave aesthetic](https://www.youtube.com/watch?v=M7YBnznuBAg).
 * [Millenial](https://www.anytimemailbox.com/resources/top-21-things-millenials-do-differently) satire.
+
+### Concept Art (2017)
+
+#### Backgrounds made using PowerPoint:
+
+![house](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/house.png)
+![office](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/office.png)
+![eye](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/OminousEye.png)
+![street](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/street.png)
+
+#### Backgrounds made using [roomstyler.com](https://roomstyler.com/3dplanner) :
+
+![RS_room1_render1](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_room1_render1.jpg.png)
+![RS_bathroom_render](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_ShortHouse_Bathroom.jpg)
+![RS_Shop](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/RS_Shop.jpg.png)
+
+#### Copy-Paste from Google Background (non-original background):
+
+![pool](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/Pool.png)
+![room1](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/room1.png)
+![room2](https://github.com/sapporovhs/sapporovhs.github.io/blob/master/assets/css/img/room2.png)
